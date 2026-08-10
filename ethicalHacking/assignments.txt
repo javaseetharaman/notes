@@ -1,0 +1,39 @@
+ETHICAL Hacking
+Last Date: On or Before 04Sep2026, Friday
+Submition Mode: 1 in Note and another 1 PPT/Board Presentation for 10 mins or in Note
+
+Assignment1:
+1. Hacker and different types
+2. Security testing and its different names, types
+3. Ethical Hacker(EH) tasks
+4. Security triad of confidentiality
+5. Risk, Assets, Threats, and Vulnerabilities
+6. Backup and its types
+7. Zero day exploits
+8. SLE, ARO, ALE
+9. International Council of E-Commerce Consultantsapproach to incident response
+10. Hackers methodology
+11. Attackers types
+12. Skills of an Ethical Hacker
+13. Different Modes of Ethical Hacking
+14. Rules of an EH
+15. Gramm-Leach-Bliley Act (GLBA), Sarbanes-Oxley (SOX), PCI-DSS, CIPA and Health Insurance
+Portability and Accountability Act (HIPAA)
+16. elements of ISO/IEC 27002 security standard
+17. National Vulnerability Database (NVD)
+18. SANS Penetration Test Report Template structure
+19. different techniques a hacker use to break a target
+
+Assignment2:
+1. List the basic questions to establish the goals and objectives of the EH tests
+2. Define weaponization, botnet, MitM, Covert communication and its types, topology, protocol, keylogging, honeypots, sniffers, eavesdropping, session hijacking, frequency hopping, vpn, IoT and IoT hacking
+3. List and explain any 5 common network services like tcp, udp, etc., with defined port numbers
+4. Explain the usage of ping, nslookup, nmap, masscan tools
+5. Difference between virus, trojonHorse & Worm
+6. Explain Malware counter measures steps in detail
+7. Explain DoS and its various types
+8. List and explain various vulnerabilities with respect to web server/web application
+9. Explain various Defending mechanisms for securing DB.
+10. Tabularize various wireless technologies with appropriate frequency and purpose
+11. Define and differentiate authentication and authorization
+12. Different types of authentication
